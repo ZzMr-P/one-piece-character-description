@@ -13,4 +13,4 @@
 | :----------| :--------|
 | HTML       | [Documentação](https://developer.mozilla.org/pt-BR/docs/Web/HTML)      |
 | CSS        | [Documentação](https://developer.mozilla.org/pt-BR/docs/Web/CSS)       |
-|JavaScript  | [Documentação](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)|
+| JavaScript | [Documentação](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)|
