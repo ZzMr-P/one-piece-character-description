@@ -12,13 +12,13 @@ botoes.forEach((botao, indice) => {
         personagens[indice].classList.add("selecionado");
 
     });
+    function desselecionarBotao() {
+        const botaoSelecionado = document.querySelector(".botao.selecionado");
+        botaoSelecionado.classList.remove("selecionado");
+    }
+    function desselecionarPersonagem() {
+        const personagemSelecionado = document.querySelector(".personagem.selecionado");
+        personagemSelecionado.classList.remove("selecionado");
+    }
+    
 });
-
-function desselecionarBotao() {
-    const botaoSelecionado = document.querySelector(".botao.selecionado");
-    botaoSelecionado.classList.remove("selecionado");
-}
-function desselecionarPersonagem() {
-    const personagemSelecionado = document.querySelector(".personagem.selecionado");
-    personagemSelecionado.classList.remove("selecionado");
-}
