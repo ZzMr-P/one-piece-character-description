@@ -1,4 +1,4 @@
-const botoes = document.querySelectorAll('.botao');
+const botoes = document.querySelectorAll(".botao");
 
 const personagens = document.querySelectorAll(".personagem");
 
